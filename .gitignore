@@ -1,0 +1,20 @@
+# VS Code
+.vscode/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Configurações locais
+.env
+
+# Dumps e backups locais
+*.sql~
+*.dump
+*.backup
